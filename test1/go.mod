@@ -1,4 +1,4 @@
-module test1
+module github.com/artob/test1.go/test1
 
 go 1.17
 
